@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Visualizer" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CARAAAAkIIEARAEAAAEQEDYCCGQWAAgkAMAoIBCWIAI=</HashCode>
+      <FileName>headers\Visualizer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenGLWindow" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <InheritanceLine Type="QOpenGLFunctions">
+      <InheritanceModifierLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.11" Y="0.06" Height="0.182" Width="1.047" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ApYIQMA0AIBACSAIFCQAAGDgGIBSRIQyMAAIIMQ8AAE=</HashCode>
+      <FileName>headers\OpenGLWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QMainWindow" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoACQgKYCA0hRAgRkKBY4oAAABEAABuBggAgIAMgACA=</HashCode>
+      <FileName>C:\Qt\6.6.1\msvc2019_64\include\QtWidgets\qmainwindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QOpenGLWidget" Collapsed="true">
+    <Position X="10" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAJAAAAAKCAAyBCAAGJAAAAIAoIKACAiBBAAEAAA=</HashCode>
+      <FileName>C:\Qt\6.6.1\msvc2019_64\include\QtOpenGLWidgets\qopenglwidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QOpenGLFunctions" Collapsed="true">
+    <Position X="12.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8h0fiJLNACKdkQRuIQUFZL4iGK8IGKJPExiHn0iB3Kg=</HashCode>
+      <FileName>C:\Qt\6.6.1\msvc2019_64\include\QtGui\qopenglfunctions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
