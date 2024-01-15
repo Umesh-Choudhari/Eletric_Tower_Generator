@@ -1,5 +1,3 @@
-//Point3D.h
-
 #pragma once
 #include "pch.h"
 

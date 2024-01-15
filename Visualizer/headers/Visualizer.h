@@ -98,3 +98,4 @@ private:
     std::string mWidth;
     std::string mHeight;
 };
+

@@ -52,3 +52,4 @@ void Point3D::setZ(double inZ)
 {
     mZ = inZ;
 }
+

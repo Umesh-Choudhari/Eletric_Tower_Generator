@@ -36,3 +36,4 @@ Point3D Triangle::p3() const
 {
     return mP3;
 }
+

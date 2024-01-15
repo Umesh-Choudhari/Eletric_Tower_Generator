@@ -4,7 +4,6 @@
 // Constructor for the Triangulation class
 Triangulation::Triangulation(const std::vector<Triangle>& inTriangles)
 {
-    // Initialize the member variable with the input triangles
     mTriangles = inTriangles;
 }
 

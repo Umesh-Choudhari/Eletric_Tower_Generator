@@ -14,6 +14,7 @@ public:
 	std::vector<float> mTowerVertices;
 };
 
+
 extern TOWERCREATOR_API int nTowerCreator;
 
 TOWERCREATOR_API int fnTowerCreator(void);

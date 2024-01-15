@@ -25,6 +25,7 @@ public:
 // Declaration of the exported variable nReader
 extern READER_API int nReader;
 
+
 // Declaration of the exported function fnReader
 READER_API int fnReader(void);
 

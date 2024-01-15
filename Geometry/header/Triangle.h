@@ -6,7 +6,6 @@
 class GEOMETRY_API Triangle
 {
 public:
-    // Constructor with three Point3D objects representing the vertices of the triangle
     Triangle(Point3D p1, Point3D p2, Point3D p3);
 
     // Destructor for the Triangle class

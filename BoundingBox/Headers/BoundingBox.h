@@ -2,7 +2,6 @@
 #include "pch.h"
 #include <vector>
 
-// This class is exported from the dll
 class BOUNDINGBOX_API BoundingBox {
 public:
 	BoundingBox(void);

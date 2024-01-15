@@ -20,3 +20,4 @@ private:
     // Private member variable
     std::vector<Triangle> mTriangles;
 };
+
