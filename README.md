@@ -76,8 +76,11 @@ The application is structured into three main components:
 2. `QT`: The Qt framework is utilized for the development of the graphical user interface (GUI) components.
  
 3. `OpenGL`: OpenGL is employed for rendering 3D graphics, enhancing the visualization capabilities of the application.
- 
+
 4. `Visual Studio`: The project is developed and built using the Visual Studio integrated development environment.
- 
-5. `Git`: Git is used for version control and collaborative development, allowing for easy tracking of changes and contributions.
- 
+
+5.  `Git`: Git is used for version control and collaborative development, allowing for easy tracking of changes and contributions.
+
+### 7. Output video
+
+https://github.com/Umesh-Choudhari/Eletric_Tower_Generator/assets/149307190/46badea6-2c75-48d1-b0ed-355f5b9c2cbe
