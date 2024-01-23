@@ -28,10 +28,3 @@ TEST(Point3DTest, SettersAndGetters) {
     EXPECT_FLOAT_EQ(point.x(), 3.0f);
     EXPECT_FLOAT_EQ(point.y(), 4.0f);
 }
-
-// Add more tests as needed for other functionality of the Point3D class.
-
-//int main(int argc, char** argv) {
-//    ::testing::InitGoogleTest(&argc, argv);
-//    return RUN_ALL_TESTS();
-//}
