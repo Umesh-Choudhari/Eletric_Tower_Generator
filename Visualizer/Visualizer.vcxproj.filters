@@ -59,5 +59,6 @@
     <None Include="Vertex.glsl" />
     <None Include="Fragment.glsl" />
     <None Include="ClassDiagram.cd" />
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>
